@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dohun's github stats](https://github-readme-stats.vercel.app/api?username=doinghun)
+![Dohun's github stats](https://github-readme-stats.vercel.app/api?username=doinghun&show_icons=true&theme=monokai)
+
+![counter](https://komarev.com/ghpvc/?username=doinghun&color=red)
