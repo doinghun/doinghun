@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 [![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoinghun%2Fhit-counter&count_bg=%23FF6F6F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a align= "center" href="https://github.com/ishikkkkaaaa">
+<a align= "center" href="https://github.com/doinghun">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=doinghun&theme=monokai" />
 <img align="right" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=doinghun&show_icons=true&theme=monokai"/>
 </a>
