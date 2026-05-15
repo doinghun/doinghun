@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dohun.kim/rss"
-          template: "<sup><a href=\"$url\">$title</a></sup><br/>"
+          template: "<sup><a href=\"$url\" target=\"_blank\" rel=\"noopener\">$title</a></sup><br/>"
           max_post_count: 6
