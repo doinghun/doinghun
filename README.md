@@ -6,5 +6,4 @@
 
 ### Recent Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><sup><a href="https://dohun.kim/blog/first-6-months-as-developer">First 6 Months as a Software Developer</a></sup><br/><sup><a href="https://dohun.kim/blog/how-i-became-a-developer">How I Became A Developer in 6 Months ✌️</a></sup><br/><!-- BLOG-POST-LIST:END -->
